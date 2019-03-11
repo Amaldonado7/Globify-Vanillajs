@@ -1,0 +1,600 @@
+{
+  "href": "https://api.spotify.com/v1/albums/6i6folBtxKV28WX3msQ4FE/tracks?offset=0&limit=20&market=ar",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 25186,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3YM9o7X3ar7Dm39zXadQSz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3YM9o7X3ar7Dm39zXadQSz",
+      "id": "3YM9o7X3ar7Dm39zXadQSz",
+      "is_local": false,
+      "is_playable": true,
+      "name": "20th Century Fox Fanfare",
+      "preview_url": "https://p.scdn.co/mp3-preview/a09a1d72eea23109d11c96718abe3d534b339cc9?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3YM9o7X3ar7Dm39zXadQSz"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 295733,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5txoZyuAmtCfmDjUCEphWm"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5txoZyuAmtCfmDjUCEphWm",
+      "id": "5txoZyuAmtCfmDjUCEphWm",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Somebody To Love",
+      "preview_url": "https://p.scdn.co/mp3-preview/66440b4bce72dd49494fc5fbe5763029b0a0b77b?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5txoZyuAmtCfmDjUCEphWm"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1nTJnNxTJmEiZSYf8ScLQ8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1nTJnNxTJmEiZSYf8ScLQ8",
+          "id": "1nTJnNxTJmEiZSYf8ScLQ8",
+          "name": "Smile",
+          "type": "artist",
+          "uri": "spotify:artist:1nTJnNxTJmEiZSYf8ScLQ8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 196840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/69VE5kmfqG4dJSkrB1OtCI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/69VE5kmfqG4dJSkrB1OtCI",
+      "id": "69VE5kmfqG4dJSkrB1OtCI",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Doing All Right - ...Revisited",
+      "preview_url": "https://p.scdn.co/mp3-preview/a00616c84a6e239898bc42b08ec53b69d2baf91f?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:69VE5kmfqG4dJSkrB1OtCI"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236083,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/34pz8XUZRfw04lk4DPtwa7",
+      "id": "34pz8XUZRfw04lk4DPtwa7",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Keep Yourself Alive - Live At The Rainbow",
+      "preview_url": "https://p.scdn.co/mp3-preview/6c5bff0a4e8082474083c33a8c7fd1a34f4e59a5?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:34pz8XUZRfw04lk4DPtwa7"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 179355,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/300YN8ebGB90nDuzgz0f3O"
+      },
+      "href": "https://api.spotify.com/v1/tracks/300YN8ebGB90nDuzgz0f3O",
+      "id": "300YN8ebGB90nDuzgz0f3O",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Killer Queen",
+      "preview_url": "https://p.scdn.co/mp3-preview/2674387224fdd286f3dc290f37adddd77ec3e3e5?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:300YN8ebGB90nDuzgz0f3O"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5Q2cQZKPvF4bpcjV3TCTss"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5Q2cQZKPvF4bpcjV3TCTss",
+      "id": "5Q2cQZKPvF4bpcjV3TCTss",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Fat Bottomed Girls - Live In Paris",
+      "preview_url": "https://p.scdn.co/mp3-preview/44433e69cb2013b91ed0dc91a6d5bb85c1acf9ae?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5Q2cQZKPvF4bpcjV3TCTss"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 354947,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3z8h0TU7ReDPLIbEnYhWZb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3z8h0TU7ReDPLIbEnYhWZb",
+      "id": "3z8h0TU7ReDPLIbEnYhWZb",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Bohemian Rhapsody",
+      "preview_url": "https://p.scdn.co/mp3-preview/c93f287327008c2c1299f1fe576a4db39db2f0f1?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:3z8h0TU7ReDPLIbEnYhWZb"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 265981,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ysz5yttr3rpRkvyVMLlRB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ysz5yttr3rpRkvyVMLlRB",
+      "id": "4ysz5yttr3rpRkvyVMLlRB",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Now I'm Here - Live At The Hammersmith Odeon",
+      "preview_url": "https://p.scdn.co/mp3-preview/e0af81019a812dd9d2a18df1d24b28d9ba8f6ab1?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4ysz5yttr3rpRkvyVMLlRB"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 163342,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1F9NVicWfNQA5ki8WmEtk8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1F9NVicWfNQA5ki8WmEtk8",
+      "id": "1F9NVicWfNQA5ki8WmEtk8",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Crazy Little Thing Called Love",
+      "preview_url": "https://p.scdn.co/mp3-preview/af0a7219f39d64d921fca7905f02e563cfa6e142?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1F9NVicWfNQA5ki8WmEtk8"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 268703,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Am82YdURCRXRvoVUObzzG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Am82YdURCRXRvoVUObzzG",
+      "id": "6Am82YdURCRXRvoVUObzzG",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Love Of My Life - Live At Rock In Rio",
+      "preview_url": "https://p.scdn.co/mp3-preview/672f4010a41cd41f1344610431e8d801aa959245?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6Am82YdURCRXRvoVUObzzG"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 129093,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2t8UoPFVXCRZulscbwv0QL"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2t8UoPFVXCRZulscbwv0QL",
+      "id": "2t8UoPFVXCRZulscbwv0QL",
+      "is_local": false,
+      "is_playable": true,
+      "name": "We Will Rock You - Movie Mix",
+      "preview_url": "https://p.scdn.co/mp3-preview/cb67698ca1ed59e7d662f84c8b192e15e38dedd2?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2t8UoPFVXCRZulscbwv0QL"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 214640,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2k1yPYf9WGA4LiqcLVwtzn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2k1yPYf9WGA4LiqcLVwtzn",
+      "id": "2k1yPYf9WGA4LiqcLVwtzn",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Another One Bites The Dust",
+      "preview_url": "https://p.scdn.co/mp3-preview/e81b7f468b5da4afe37e9f8129d38d715b4979c8?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2k1yPYf9WGA4LiqcLVwtzn"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 223080,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7iAqvWLgZzXvH38lA06QZg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7iAqvWLgZzXvH38lA06QZg",
+      "id": "7iAqvWLgZzXvH38lA06QZg",
+      "is_local": false,
+      "is_playable": true,
+      "name": "I Want To Break Free",
+      "preview_url": "https://p.scdn.co/mp3-preview/6b418044c25c728df96a382a0824e837fd901ca4?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:7iAqvWLgZzXvH38lA06QZg"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+          "name": "David Bowie",
+          "type": "artist",
+          "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244484,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6suU8oBlW4O2pg88tOXgHo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6suU8oBlW4O2pg88tOXgHo",
+      "id": "6suU8oBlW4O2pg88tOXgHo",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Under Pressure - Remastered",
+      "preview_url": "https://p.scdn.co/mp3-preview/c052c7c06ab4c8c482965f172ce8a06ef20e0437?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:6suU8oBlW4O2pg88tOXgHo"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 314488,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/77X4MKKCVpGSHsaErgCLzT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/77X4MKKCVpGSHsaErgCLzT",
+      "id": "77X4MKKCVpGSHsaErgCLzT",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Who Wants To Live Forever",
+      "preview_url": "https://p.scdn.co/mp3-preview/4774447aeafcd35b8941357336a9076630aea242?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:77X4MKKCVpGSHsaErgCLzT"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 147840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7xHATAMD7ezTZGYsNAMr5R"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7xHATAMD7ezTZGYsNAMr5R",
+      "id": "7xHATAMD7ezTZGYsNAMr5R",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Bohemian Rhapsody - Live Aid",
+      "preview_url": "https://p.scdn.co/mp3-preview/c0e57f33ab6681109daedbc254987c454e4ad6f3?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:7xHATAMD7ezTZGYsNAMr5R"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245680,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0YwBZKT8JE4U5TwmYE9BV9"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0YwBZKT8JE4U5TwmYE9BV9",
+      "id": "0YwBZKT8JE4U5TwmYE9BV9",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Radio Ga Ga - Live Aid",
+      "preview_url": "https://p.scdn.co/mp3-preview/3ba37c52d1220af0eaffb42fdd8432ab632b05bd?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:0YwBZKT8JE4U5TwmYE9BV9"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 41454,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Fl9MoM9BDk6vwbHqBBZeK"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Fl9MoM9BDk6vwbHqBBZeK",
+      "id": "6Fl9MoM9BDk6vwbHqBBZeK",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ay-Oh - Live Aid",
+      "preview_url": "https://p.scdn.co/mp3-preview/ccb66bbe70f0b1ca4c4431e759b020ce5dace8d9?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:6Fl9MoM9BDk6vwbHqBBZeK"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 243531,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ekobRVHvm435Eipr1StAg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ekobRVHvm435Eipr1StAg",
+      "id": "5ekobRVHvm435Eipr1StAg",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Hammer To Fall - Live Aid",
+      "preview_url": "https://p.scdn.co/mp3-preview/717251e0b2d65ed6a1e4da83311991ffaebb3c50?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:5ekobRVHvm435Eipr1StAg"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237025,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4XaG9IpCXklOcuau1sIrUX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4XaG9IpCXklOcuau1sIrUX",
+      "id": "4XaG9IpCXklOcuau1sIrUX",
+      "is_local": false,
+      "is_playable": true,
+      "name": "We Are The Champions - Live Aid",
+      "preview_url": "https://p.scdn.co/mp3-preview/55302312d1576d9f170985131956afc9ec4a081c?cid=4732810f7eff41a4b67a93564987ece5",
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:4XaG9IpCXklOcuau1sIrUX"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/albums/6i6folBtxKV28WX3msQ4FE/tracks?offset=20&limit=20&market=ar",
+  "offset": 0,
+  "previous": null,
+  "total": 22
+}

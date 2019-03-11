@@ -1,0 +1,910 @@
+{
+  "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d/albums?offset=0&limit=20&include_groups=album,single,compilation,appears_on&market=AR",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
+      },
+      "href": "https://api.spotify.com/v1/albums/6i6folBtxKV28WX3msQ4FE",
+      "id": "6i6folBtxKV28WX3msQ4FE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c2c46becdf1164171dfde486f2694397c5352f95",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cdd50e6509015e057823e5468a9977550170fb47",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8046cbd8827803319810aa5eee21e9a849b01d6e",
+          "width": 64
+        }
+      ],
+      "name": "Bohemian Rhapsody (The Original Soundtrack)",
+      "release_date": "2018-10-19",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:6i6folBtxKV28WX3msQ4FE"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6SbrIpVsaJ5wgCQtMMwVR2"
+      },
+      "href": "https://api.spotify.com/v1/albums/6SbrIpVsaJ5wgCQtMMwVR2",
+      "id": "6SbrIpVsaJ5wgCQtMMwVR2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/dfd8234bd0a088eb196d1fa1d4a4b92aaa34cb1c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/332c960c9b367c9aabfcd4ae374827fe87e87a7b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fc8ac3f8fb1c7943f9b960210d2dda2bc478a075",
+          "width": 64
+        }
+      ],
+      "name": "On Air",
+      "release_date": "2016-11-04",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:6SbrIpVsaJ5wgCQtMMwVR2"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4RjhFl7Eo8PouXAL8GMiXS"
+      },
+      "href": "https://api.spotify.com/v1/albums/4RjhFl7Eo8PouXAL8GMiXS",
+      "id": "4RjhFl7Eo8PouXAL8GMiXS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9b3a9f7e8208a48104c6e8b3c61034923c11b4aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ed3d648359aaa9fc3e1affb9f7e933ecac21b776",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/708693837cb1850d6a294b1c7c99bdfec5a8aa60",
+          "width": 64
+        }
+      ],
+      "name": "A Night At The Odeon",
+      "release_date": "2015-11-13",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:4RjhFl7Eo8PouXAL8GMiXS"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4rxdf27orKcIWhwSEqoed9"
+      },
+      "href": "https://api.spotify.com/v1/albums/4rxdf27orKcIWhwSEqoed9",
+      "id": "4rxdf27orKcIWhwSEqoed9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5e14305af435b62a43fe768644f03fe270ac0de2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/13d739338bfae373eb9fc7e97b50afbf4ea5c92b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c4ad95410894792afbc0dc8096a7f43491f68bd0",
+          "width": 64
+        }
+      ],
+      "name": "Live At The Rainbow",
+      "release_date": "2014-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:4rxdf27orKcIWhwSEqoed9"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1zPInImSAOeB2u5Dm03YJI"
+      },
+      "href": "https://api.spotify.com/v1/albums/1zPInImSAOeB2u5Dm03YJI",
+      "id": "1zPInImSAOeB2u5Dm03YJI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3f71d3adf253a02ed11de4ddfc7db6e216c22d41",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ee7a2bf34ace601108890320b39631e3b8a80ee8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e5c1319aab6fa8b202a5940dcc1822830187bf4d",
+          "width": 64
+        }
+      ],
+      "name": "Live At The Rainbow (Deluxe)",
+      "release_date": "2014-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 41,
+      "type": "album",
+      "uri": "spotify:album:1zPInImSAOeB2u5Dm03YJI"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3BuEiPtiFc0kcnZvURQpn8"
+      },
+      "href": "https://api.spotify.com/v1/albums/3BuEiPtiFc0kcnZvURQpn8",
+      "id": "3BuEiPtiFc0kcnZvURQpn8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/dbc1af6373489a2e054d3c8b06f3ee0bf3a44a71",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/288e255f1e98039329e53e7a2dfa8d7406058244",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4298d00c1270d965deecba9fdaf8a0cb136cc188",
+          "width": 64
+        }
+      ],
+      "name": "Hungarian Rhapsody (Live In Budapest / 1986)",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 27,
+      "type": "album",
+      "uri": "spotify:album:3BuEiPtiFc0kcnZvURQpn8"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gaWNB3YrlTc0KRlHNqhol",
+          "id": "2gaWNB3YrlTc0KRlHNqhol",
+          "name": "Paul Rodgers",
+          "type": "artist",
+          "uri": "spotify:artist:2gaWNB3YrlTc0KRlHNqhol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0HJ76ERWySINSsmZjuk8PP"
+      },
+      "href": "https://api.spotify.com/v1/albums/0HJ76ERWySINSsmZjuk8PP",
+      "id": "0HJ76ERWySINSsmZjuk8PP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f60d9e42aac36fb48410fcea1c3ee6e5f66cbfb1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5c393b134ce3395bd0c769608b0e300aa863f888",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d4f395b260ab97b4b31c1151b1ce9b53688ce186",
+          "width": 64
+        }
+      ],
+      "name": "The Cosmos Rocks",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:0HJ76ERWySINSsmZjuk8PP"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/70pjSyIDOZ5G5blR6aNXkQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/70pjSyIDOZ5G5blR6aNXkQ",
+      "id": "70pjSyIDOZ5G5blR6aNXkQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ae2ca2516f4766590a6e4909ccab6deffa93ee68",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/df8927327f09cd8828dd71fa2890bb2531bd84e0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/684e4cdc66dcc741a7897c40519d61fc8152a898",
+          "width": 64
+        }
+      ],
+      "name": "Queen Rock Montreal",
+      "release_date": "2007-10-29",
+      "release_date_precision": "day",
+      "total_tracks": 27,
+      "type": "album",
+      "uri": "spotify:album:70pjSyIDOZ5G5blR6aNXkQ"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gaWNB3YrlTc0KRlHNqhol",
+          "id": "2gaWNB3YrlTc0KRlHNqhol",
+          "name": "Paul Rodgers",
+          "type": "artist",
+          "uri": "spotify:artist:2gaWNB3YrlTc0KRlHNqhol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2R33yLkTdkWRXIlja5vMUM"
+      },
+      "href": "https://api.spotify.com/v1/albums/2R33yLkTdkWRXIlja5vMUM",
+      "id": "2R33yLkTdkWRXIlja5vMUM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2d327ee13f53e5ba22ed759efb0ee3a2f189f142",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/171319dd451cd7e74576d9e84a5d655220f629de",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9656e76599f0c42be1d9060d4690aef9959f8456",
+          "width": 64
+        }
+      ],
+      "name": "Return Of The Champions",
+      "release_date": "2005-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 27,
+      "type": "album",
+      "uri": "spotify:album:2R33yLkTdkWRXIlja5vMUM"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3W7HRwvYEuenMdEOuLPOxw"
+      },
+      "href": "https://api.spotify.com/v1/albums/3W7HRwvYEuenMdEOuLPOxw",
+      "id": "3W7HRwvYEuenMdEOuLPOxw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c497067d4205c9a5df881a6e46250ee2a7e041b8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/7e4a729d9efe56660e0099deb4e7b1e22fc2c664",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7a1f0a2059508bf349b27ffa58d41b1db80c7d41",
+          "width": 64
+        }
+      ],
+      "name": "On Fire: Live At The Bowl",
+      "release_date": "2004-11-04",
+      "release_date_precision": "day",
+      "total_tracks": 25,
+      "type": "album",
+      "uri": "spotify:album:3W7HRwvYEuenMdEOuLPOxw"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0"
+      },
+      "href": "https://api.spotify.com/v1/albums/391ScNR3xKywWSpfDwP3n0",
+      "id": "391ScNR3xKywWSpfDwP3n0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b17ef2fffaf8934a8462423eca47869c8c291ff4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/370b409b403da439816a00daaac878837c8a07c3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c092aa7bfd8c66f8ce705b4106bdf1f74be349ac",
+          "width": 64
+        }
+      ],
+      "name": "Made In Heaven (2011 Remaster)",
+      "release_date": "1995-11-06",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:391ScNR3xKywWSpfDwP3n0"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7"
+      },
+      "href": "https://api.spotify.com/v1/albums/274tWwrhGJy0IFeMENjWi7",
+      "id": "274tWwrhGJy0IFeMENjWi7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b17ef2fffaf8934a8462423eca47869c8c291ff4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/370b409b403da439816a00daaac878837c8a07c3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c092aa7bfd8c66f8ce705b4106bdf1f74be349ac",
+          "width": 64
+        }
+      ],
+      "name": "Made In Heaven (Deluxe Edition 2011 Remaster)",
+      "release_date": "1995-11-06",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:274tWwrhGJy0IFeMENjWi7"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0pipZo4jBQ2hA4HphdFccg"
+      },
+      "href": "https://api.spotify.com/v1/albums/0pipZo4jBQ2hA4HphdFccg",
+      "id": "0pipZo4jBQ2hA4HphdFccg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/44fbd6317228ab231608e452bb6435b5a0215b25",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/613ddbafa93d565ece7f1535fc376ed485324c91",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cf4466703f844b1eb5eb907ceca691d807b852e6",
+          "width": 64
+        }
+      ],
+      "name": "Live At Wembley Stadium",
+      "release_date": "1992-05-26",
+      "release_date_precision": "day",
+      "total_tracks": 28,
+      "type": "album",
+      "uri": "spotify:album:0pipZo4jBQ2hA4HphdFccg"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
+      },
+      "href": "https://api.spotify.com/v1/albums/5kffKW0sSLo6tkLg1veUGC",
+      "id": "5kffKW0sSLo6tkLg1veUGC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7421ed7ea55607617c767ce311783b1a8603d860",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8799d5eb4aac15498ad7d389c4ff45952db0bd3c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c679645fb6a698b3d9b8bd764afc3e270dd30ff0",
+          "width": 64
+        }
+      ],
+      "name": "Innuendo (2011 Remaster)",
+      "release_date": "1991-02-05",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:5kffKW0sSLo6tkLg1veUGC"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6b7VmKVacoa7bbIHwlKfK7"
+      },
+      "href": "https://api.spotify.com/v1/albums/6b7VmKVacoa7bbIHwlKfK7",
+      "id": "6b7VmKVacoa7bbIHwlKfK7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7421ed7ea55607617c767ce311783b1a8603d860",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8799d5eb4aac15498ad7d389c4ff45952db0bd3c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c679645fb6a698b3d9b8bd764afc3e270dd30ff0",
+          "width": 64
+        }
+      ],
+      "name": "Innuendo (Deluxe Edition 2011 Remaster)",
+      "release_date": "1991-02-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:6b7VmKVacoa7bbIHwlKfK7"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
+      },
+      "href": "https://api.spotify.com/v1/albums/3h6SV9wHJtNL1YswZUJs8V",
+      "id": "3h6SV9wHJtNL1YswZUJs8V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/540210e0d81a813056e1de5789a82d66dc867fe7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9e4f008696dc516dfd4063249c4b909464562bfc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6ed29f33db9190fe7c464778d72801eac20cdbc4",
+          "width": 64
+        }
+      ],
+      "name": "The Miracle (2011 Remaster)",
+      "release_date": "1989-05-22",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3h6SV9wHJtNL1YswZUJs8V"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7kiDOzNkoKCEgqGZrpPrej"
+      },
+      "href": "https://api.spotify.com/v1/albums/7kiDOzNkoKCEgqGZrpPrej",
+      "id": "7kiDOzNkoKCEgqGZrpPrej",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/540210e0d81a813056e1de5789a82d66dc867fe7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9e4f008696dc516dfd4063249c4b909464562bfc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6ed29f33db9190fe7c464778d72801eac20cdbc4",
+          "width": 64
+        }
+      ],
+      "name": "The Miracle (Deluxe Edition 2011 Remaster)",
+      "release_date": "1989-05-22",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:7kiDOzNkoKCEgqGZrpPrej"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "href": "https://api.spotify.com/v1/albums/0pEfDPZko6TnNOgrZMe5nn",
+      "id": "0pEfDPZko6TnNOgrZMe5nn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e74feae5ff780765a0709c1256bd6d07a8881c3b",
+          "width": 639
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/33e915b45c45504f70bf6cc09ab4f8739f194234",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7d710845c4f814d46d74098662bb5c7aef68a47f",
+          "width": 64
+        }
+      ],
+      "name": "A Kind Of Magic (2011 Remaster)",
+      "release_date": "1986-06-02",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:0pEfDPZko6TnNOgrZMe5nn"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6XRbTxJxSsiRmGYVmbdLui"
+      },
+      "href": "https://api.spotify.com/v1/albums/6XRbTxJxSsiRmGYVmbdLui",
+      "id": "6XRbTxJxSsiRmGYVmbdLui",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/29af4a427c737caab74ef17cc7ba9855e30541fb",
+          "width": 639
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/686600b006b2b6f9ed9ae48bdf0a22cd3ca773e1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0cb9237bedc6fb2b1c8e9792f1dde859c721a018",
+          "width": 64
+        }
+      ],
+      "name": "A Kind Of Magic (Deluxe Edition 2011 Remaster)",
+      "release_date": "1986-06-02",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6XRbTxJxSsiRmGYVmbdLui"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist",
+          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa"
+      },
+      "href": "https://api.spotify.com/v1/albums/5RS9xkMuDmeVISqGDBmnSa",
+      "id": "5RS9xkMuDmeVISqGDBmnSa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1252203a0a5d80727dcdc3f067397c09718deeb5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/73a4f1e99aae3a81beb4501a6c54624a8def6c30",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/049c175acaa2902baa1dfa7ad4bc94903cd1057c",
+          "width": 64
+        }
+      ],
+      "name": "The Works (2011 Remaster)",
+      "release_date": "1984-02-27",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:5RS9xkMuDmeVISqGDBmnSa"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d/albums?offset=20&limit=20&include_groups=album,single,compilation,appears_on&market=AR",
+  "offset": 0,
+  "previous": null,
+  "total": 84
+}

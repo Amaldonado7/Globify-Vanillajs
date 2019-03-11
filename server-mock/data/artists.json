@@ -1,0 +1,85 @@
+{
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "followers": {
+        "href": null,
+        "total": 12716753
+      },
+      "genres": [
+        "glam rock",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id": "1dfeR4HaWDbWqFHLkxsg1d",
+      "images": [
+        {
+          "height": 806,
+          "url": "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
+          "width": 999
+        },
+        {
+          "height": 516,
+          "url": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
+          "width": 640
+        },
+        {
+          "height": 161,
+          "url": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
+          "width": 200
+        },
+        {
+          "height": 52,
+          "url": "https://i.scdn.co/image/6dd0ffd270903d1884edf9058c49f58b03db893d",
+          "width": 64
+        }
+      ],
+      "name": "Queen",
+      "popularity": 95,
+      "type": "artist",
+      "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "followers": {
+        "href": null,
+        "total": 13808641
+      },
+      "genres": [
+        "pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id": "4dpARuHxo51G3z768sgnrY",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/ccbe7b4fef679f821988c78dbd4734471834e3d9",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f8737f6fda048b45efe91f81c2bda2b601ae689c",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/df070ad127f62d682596e515ac69d5bef56e0897",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cbbdfb209cc38b2999b1882f42ee642555316313",
+          "width": 64
+        }
+      ],
+      "name": "Adele",
+      "popularity": 85,
+      "type": "artist",
+      "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+.artist {
+	width: 60vw;
+	height: 100vh;
+	background-color: $dark-grey;
+	overflow-y: scroll;
+	overflow-x: hidden;
+
+	&__toolbar {
+		width: 100%;
+		align-items: center;
+		display: flex;
+		justify-content: space-around;
+		margin-top: 15px;
+
+		&__logo {
+			width: 100%;
+
+			&__img {
+				max-width: 250px;
+			}
+		}
+
+		&__search {
+			width: 100%;
+			text-align: center;
+
+			&__input {
+				width: 280px;
+				height: 45px;
+				background: url("./../img/Fill_1_1.png") no-repeat scroll 14px 11px;
+				border: 1px solid #f37037;
+				border-radius: 23px;
+				color: $text-color;
+				font-family: Helvetica, Arial, sans-serif;
+				font-size: 18px;
+				padding-left: 50px;
+			}
+		}
+		&__mobile{
+			display:none;
+		}
+	}
+
+	&__container{
+		width: 100%;
+		margin: 30px auto;
+	}
+	&__title{
+		font-size: 50px;
+		font-weight: 500;
+		// margin-left: 24px;
+		// margin-bottom: 40px;
+		margin: 0 24px;
+	}
+
+	&__library{
+		width: 100%;
+		display: flex;
+		justify-content: space-around;
+		flex-flow: wrap;
+		padding-left: 0;
+		list-style: none;
+		margin: 0;
+		&__item{
+			width: 30%;
+			margin-top: 43px;
+			text-align: center;
+			&__img{
+				width: 170px;
+				border-radius: 90px;
+			}
+			&__name{
+				font-size: 19px;
+				margin-top: 20px;
+			}
+			&__album{
+				font-size: 17px;
+				margin-top: 8px;
+			}
+			&--selected{
+				background-color: $background-hover;
+				box-sizing: border-box;
+				border-radius: 20px;
+				color: #f37037;
+				padding: 20px 15px;
+			}
+		}
+	}
+	
+}
+
+/* Responsive */
+@media screen and (max-width: 420px){
+    .artist {
+		width: 100%;			
+		&__toolbar {
+			flex-flow: wrap;
+			&__logo {
+				display: none;
+			}
+			&__mobile{
+				width: 100vw;
+				display: block;
+				&__list{
+					width: 100vw;
+					height: 40px;
+					display: flex;
+					justify-content: space-around;
+					list-style: none;
+					&__item{
+						width: 33vw;
+						font-size: 16px;
+						font-weight: 500;
+						text-align: center;
+						&:hover{
+							border-bottom: 2px solid #f37037;
+						}
+					}
+				}
+			}	
+		}
+
+		&__container{
+			margin: 2px auto;
+			margin-bottom: 10px;
+		}	
+
+		&__title{
+			display: none;
+			margin-bottom: 10px;
+		}
+
+		&__library {
+			&__item{
+				&__img{
+					width: 100px;
+					border-radius: 60px;
+				}
+				&__name{
+					font-size: 13px;
+					margin-top: 20px;
+				}
+				&__album{
+					display:none;
+				}
+				&--selected {
+					background-color: $dark-grey;
+					padding: 0;
+					
+					border-radius: 0;
+				}
+			}
+		}
+    }
+}

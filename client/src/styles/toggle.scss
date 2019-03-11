@@ -1,0 +1,22 @@
+#toggleMenu {
+	width: 1vw;
+	background-color: $background-hover;
+	height: 100vh; /* view height */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;		
+	
+	&__img {
+		width: 100%;
+		max-width: 20px;		
+	}
+	
+}
+
+/* Responsive */
+@media screen and (max-width: 420px){
+	#toggleMenu {
+		display: none;
+    }
+}

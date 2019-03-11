@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Globify</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon.png" type="image/x-icon" />
+</head>
+
+<body id="body">
+    <section id="loading">
+            <div class="loading">
+				<img src="img/loading.gif" alt="loading..">
+			</div>
+    </section>
+    <div class="container">
+            <nav class="navbar" id="sidebar-content">
+                    <div class="navbar__profile" id="profile">
+                        <img class="navbar__profile__img" id="profile-photo" src="" alt="Profile photo">
+                        <p class="navbar__profile__name" id="name">Miss Octocat</p>
+                    </div>
+                    <a href="" class="navbar__explore">Explorar</a>
+                    <h2 class="navbar__library">Tu Biblioteca</h2>
+                    <ul class="navbar__list">
+                        <li class="navbar__list__item navbar__list__item--selected">Artistas</li>
+                        <li class="navbar__list__item">Playlists</li>
+                        <li class="navbar__list__item">Videos</li>
+                        <li class="navbar__list__item">Escuchado Recientemente</li>
+                    </ul>
+            </nav>
+                <div id="toggleMenu">
+                    <img src="img/Fill_1_2.png" alt="" >
+                </div>
+            <section class="artist" id="artist">
+                <header class="artist__toolbar">
+
+                    <div class="artist__toolbar__mobile">
+						<ul class="artist__toolbar__mobile__list">
+							<li class="artist__toolbar__mobile__list__item">Artista</li>
+							<li class="artist__toolbar__mobile__list__item">Recientemente</li>
+							<li class="artist__toolbar__mobile__list__item">Playlist</li>
+						</ul>
+					</div>
+                    <h1 class="artist__toolbar__logo">  <img class="artist__toolbar__logo__img" src="img/logo.png" alt="GlobalLogic logo"/> </h1>
+                    <form class="artist__toolbar__search" action="" role="search" method="get">
+                        <input class="artist__toolbar__search__input" id="input" type="search" placeholder="Buscar" />
+                    </form>
+                </header>
+                <div class="artist__container">
+                <h2 class="artist__title">Artistas</h2>
+                <ul class="artist__library" id="artist-library">
+
+                </ul>
+                </div>
+            </section>
+            <aside class="album" id="album">
+                <div class="album__container">
+                    <h2 class="album__band" id="album-band"></h2>
+                    <h2 class="album__title">Álbumes</h2>
+                    <ul class="album__list" id="album-list">
+
+                    </ul>
+                </div>
+			</aside>
+            <section class="playlist__mobile">
+                <div class="playlist__mobile__container">
+                    <h2 class="playlist__mobile__album">Rock in a Hard Place</h2>
+                    <h3 class="playlist__mobile__title">Canciones</h3>
+                    <ul class="playlist__mobile__list">
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Jailbait</p>
+                            <p class="playlist__mobile__list__item__time">4:30</p>
+                        </li>
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Lightning Strikes</p>
+                            <p class="playlist__mobile__list__item__time">4:27</p>
+                        </li>
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Bitch's Brew</p>
+                            <p class="playlist__mobile__list__item__time">4:14</p>
+                        </li>
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Bolivian Rafamuffin</p>
+                            <p class="playlist__mobile__list__item__time">3:51</p>
+                        </li>
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Cry me a River</p>
+                            <p class="playlist__mobile__list__item__time">4:06</p>
+                        </li>
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Prelude to Joanie</p>
+                            <p class="playlist__mobile__list__item__time">1:21</p>
+                        </li>
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Joanie's Butterfly</p>
+                            <p class="playlist__mobile__list__item__time">5:46</p>
+                        </li>
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Rock in a Hard Place</p>
+                            <p class="playlist__mobile__list__item__time">4:46</p>
+                        </li>
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Jig is Up</p>
+                            <p class="playlist__mobile__list__item__time">3:09</p>
+                        </li>
+                        <li class="playlist__mobile__list__item">
+                            <p class="playlist__mobile__list__item__name">Push comes to Shove</p>
+                            <p class="playlist__mobile__list__item__time">4:29</p>
+                        </li>
+                    </ul>
+                </div>
+                </section>
+                <footer class="mobile">
+                    <div class="mobile__container">
+                    <ul class="mobile__list">
+                        <li class="mobile__list__item">
+                            <img src="img/home-icon.png" alt="Home" title="Home" class="mobile__list__item__img" />
+                            <p class="mobile__list__item__title">Inicio</p>
+                        </li>
+                        <li class="mobile__list__item">
+                            <img src="img/search-icon.png" alt="Search" title="Search" class="mobile__list__item__img" />
+                            <p class="mobile__list__item__title">Buscar</p>
+                        </li>
+                        <li class="mobile__list__item">
+                            <img src="img/library-icon.png" alt="Library" title="Library" class="mobile__list__item__img" />
+                            <p class="mobile__list__item__title">Tu Biblioteca</p>
+                        </li>
+                        <li class="mobile__list__item">
+                            <!-- <img src="" alt="Profile" title="Profile" class="mobile__list__item__img" /> -->
+                            <p class="mobile__list__item__title">Perfil</p>
+                        </li>
+                    </ul>
+                </div>
+                </footer>
+    </div>
+</body>
+</html>

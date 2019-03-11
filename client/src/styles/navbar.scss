@@ -1,0 +1,68 @@
+.navbar {
+	width: 14vw;
+	margin-left: 10px;
+	position: sticky;
+	left: 0;	
+		
+	&__profile {
+		max-width: 10vw;
+		align-items: center;
+		display: flex;
+		justify-content: space-between;
+		margin: 33px 0 54px;
+	
+	}
+
+	&__explore {
+		font-size: 15px;
+	}
+
+	&__library {
+		font-size: 19px;
+		font-weight: 500;
+		margin: 27px 0 10px;
+	}
+
+	&__list {
+		list-style: none;
+		font-size: 15px;
+		line-height: 26px;
+		padding-left: -20px; 
+		&__item {
+			padding-left: 10%;
+			
+			&--selected {
+				background-color: $background-hover;
+				color: $text-hover;
+				cursor: pointer;					
+					&::before {
+					padding-left: 14%;
+					background-color: $background-hover;
+					box-sizing: border-box;					
+					}	
+				
+			}			
+		}
+	}
+	
+}
+
+//User
+
+#profile-photo {
+	width: 100%;
+	max-width: 62px;
+	max-height: 61px;
+	border-radius: 30px;
+}
+
+#name {
+	font-size: 15px;
+	margin-left: 10px;
+}
+
+@media screen and (max-width: 420px){
+	.navbar {
+		display: none;
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "spotify-middleware-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://portal-ua.globallogic.com/gitlab/escuelita1/globify.git"
+  }
+}
