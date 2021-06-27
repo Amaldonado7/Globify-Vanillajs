@@ -2,8 +2,8 @@ const express = require('express');
 const request = require('request');
 
 // config
-const client_id = '12b7e8ba1a5f4465b9e5c50470279cfa';
-const secret = '00be6b8b36714b4092c3b81f4a8ba04a';
+const client_id = '';
+const secret = '';
 const port = 3000;
 const server_url = `http://localhost:${port}`;
 const redirect_uri = `${server_url}/callback`;
